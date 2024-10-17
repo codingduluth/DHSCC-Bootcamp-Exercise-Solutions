@@ -1,3 +1,5 @@
+import java.util.*; //Dont forget to import this. This is where you will be able to get the scanner from. Without this, you will encounter an error relating to the scanner.
+
 public class ChallengeExercise1 { 
   
 	public static void main(String[] args) { 
